@@ -20,7 +20,7 @@ public class FindRCommand extends Command {
 
     public static final String COMMAND_WORD = "findR";
 
-    public static final String MESSAGE_USAGE = COMMAND_WORD + "Finds records for a specific patient "
+    public static final String MESSAGE_USAGE = COMMAND_WORD + ": Finds records for a specific patient "
             + "with a description that matches the keyword(s) specified.\n"
             + "Parameters: PATIENT_INDEX "
             + PREFIX_KEYWORDS + "KEYWORD [MORE_KEYWORDS]...\n"
