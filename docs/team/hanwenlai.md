@@ -36,15 +36,14 @@ Given below are my contributions to the project.
   * Reviewed and approved PRs for merging.
 * **Documentation**
   * User Guide:
-    * Added documentation for the `list` command. [\#11](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/11)
-    * Added documentation for the `rlist` command. [\#59](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/59)
+    * Added documentation for the `list` and `rlist` command. [\#11](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/11), [\#59](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/59)
     * Update documentation for commands to reflect the addition of `birthdate` field. [\#80](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/80)
     * Update documentation for commands that require an `Index` to be specified, such that the index given must be below a set limit. [\#156](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/156)
   * Developer Guide:
     * Added implementation details for the `rlist` command. [\#90](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/90)
     * Added UML Sequence Diagram showing the execution path of the `rlist` command. [\#102](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/102)
     * Added a `Table of Contents` and `Back to ToC` shortcuts to improve navigability of DG. [\#161](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/161)
-    * Added an introduction and purpose for the DG. [\#173](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/173)
+    * Added an introduction, purpose and effort appendix for the DG. [\#173](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/173), [\#188](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/188)
     * Added use cases for `list` and `rlist` commands.
 * **Community**:
   * PRs reviewed (with non-trivial comments): [\#45](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/45), [\#47](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/47), [\#54](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/54), [\#67](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/67), [\#81](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/81)
