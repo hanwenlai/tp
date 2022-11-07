@@ -36,7 +36,7 @@ Given below are my contributions to the project.
   * Reviewed and approved PRs for merging.
 * **Documentation**
   * User Guide:
-    * Added documentation for the `list` and `rlist` command. [\#11](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/11), [\#59](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/59)
+    * Added documentation for the `list` and `rlist` commands. [\#11](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/11), [\#59](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/59)
     * Update documentation for commands to reflect the addition of `birthdate` field. [\#80](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/80)
     * Update documentation for commands that require an `Index` to be specified, such that the index given must be below a set limit. [\#156](https://github.com/AY2223S1-CS2103T-T14-3/tp/pull/156)
   * Developer Guide:
